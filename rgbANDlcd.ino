@@ -54,16 +54,11 @@ int parkMillerRNG() {
 }
 
  int randomNumber(int maxVal){
-  int tempRNG = 0;
-  int result = 0;
-  tempRNG = parkMillerRNG();
-  if(tempRNG < 0){
-    tempRNG = tempRNG * -1;
-  }
-  else{
-    result = tempRNG % maxVal;
-  }
-  return result;
+  int rngNum = RNG();
+  if (rngNum < 0)
+    rngNum *= -1;
+  rngNum = rngNum % maxVal;
+  return rngNum;
  }
 
 
