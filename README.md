@@ -5,5 +5,5 @@ This was my final projected that I created for my embedded systems class at the 
 Video Demo: 
 
 <a href="https://youtu.be/eSMH8A6l3ds" target="_blank">
- <img src="https://i9.ytimg.com/vi_webp/eSMH8A6l3ds/mq2.webp?sqp=CISi4qYG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWihDMA8=&rs=AOn4CLBYRmY_VWds507X4IiUqLOusNJ1BA" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="demo.png" width=400px/>
 </a>
